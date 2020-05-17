@@ -12,7 +12,7 @@ Pour ce faire, executer la commande suivante :
 
 ```git clone url```
 
-```cd Mypro```
+```cd CovidApp```
 
 ```npm i -g expo-cli```
 
