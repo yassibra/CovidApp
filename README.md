@@ -18,3 +18,6 @@ Pour lancer l'application vous devrez utiliser la commande suivante :
 expo start
 
 Puis, vous rendre sur l'application Expo et scanner le code QR genéré par le terminal.
+
+![](DkAi4Au7b6.gif)
+
