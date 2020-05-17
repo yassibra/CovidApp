@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Mypro",
-    "slug": "Mypro",
+    "name": "CovidApp",
+    "slug": "CovidApp",
     "platforms": [
       "ios",
       "android",
