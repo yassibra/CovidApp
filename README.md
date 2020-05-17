@@ -19,5 +19,4 @@ expo start
 
 Puis, vous rendre sur l'application Expo et scanner le code QR genéré par le terminal.
 
-! [] (DkAi4Au7b6)
-
+<img src="DkAi4Au7b6" >
