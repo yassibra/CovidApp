@@ -12,11 +12,11 @@ Pour ce faire, executer la commande suivante :
 
 ```git clone url```
 
-cd Mypro
+```cd Mypro```
 
-npm i -g expo-cli
+```npm i -g expo-cli
 
-npm install
+npm install```
 
 
 Installez l'application Expo sur votre téléphone.
@@ -29,7 +29,7 @@ Installez l'application Expo sur votre téléphone.
 
 Pour lancer l'application vous devrez utiliser la commande suivante :
 
-expo start
+```expo start ```
 
 Puis, vous rendre sur l'application Expo et scanner le code QR genéré par le terminal.
 
