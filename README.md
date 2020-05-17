@@ -14,9 +14,9 @@ Pour ce faire, executer la commande suivante :
 
 ```cd Mypro```
 
-```npm i -g expo-cli
+```npm i -g expo-cli```
 
-npm install```
+npm install
 
 
 Installez l'application Expo sur votre téléphone.
