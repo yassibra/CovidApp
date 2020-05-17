@@ -10,7 +10,7 @@ Application mobile React Native affichant le nombre de cas, de guéris, de morts
 Avant tout, il vous faudra installer les librairies dont aura besoin cette application web pour fonctionner.
 Pour ce faire, executer la commande suivante :
 
-(git clone url)
+```git clone url```
 
 cd Mypro
 
