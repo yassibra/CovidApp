@@ -6,6 +6,7 @@ Installation
 
 Avant tout, il vous faudra installer les librairies dont aura besoin cette application web pour fonctionner.
 Pour ce faire, executer la commande suivante :
+
 npm install
 
 Installez l'application Expo sur votre téléphone.
@@ -13,5 +14,7 @@ Installez l'application Expo sur votre téléphone.
 Lancer l'application
 
 Pour lancer l'application vous devrez utiliser la commande suivante :
+
 expo start
+
 Puis, vous rendre sur l'application Expo et scanner le code QR genéré par le terminal.
