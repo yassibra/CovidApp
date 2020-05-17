@@ -4,9 +4,12 @@ Application mobile React Native affichant le nombre de cas, de guéris, de morts
 
 Installation
 
+
+
 Avant tout, il vous faudra installer les librairies dont aura besoin cette application web pour fonctionner.
 Pour ce faire, executer la commande suivante :
-
+(commande gitclone)
+cd Mypro
 npm install
 
 Installez l'application Expo sur votre téléphone.
