@@ -19,4 +19,6 @@ expo start
 
 Puis, vous rendre sur l'application Expo et scanner le code QR genéré par le terminal.
 
-<img src="DkAi4Au7b6.gif" />
+<p>
+  <img src="DkAi4Au7b6.gif" width="700px" />
+</p>
