@@ -16,7 +16,7 @@ export function getFilmsFromApiWithSearchedText (text) {
 }    
 
 export function getDataCorona(pays) {
-    const url = 'https://api.covid19api.com/country/'+ pays.toLowerCase() +'?from=2020-03-01T00:00:00Z&to=2020-05-15T00:00:00Z'
+    const url = 'https://api.covid19api.com/country/'+ pays.toLowerCase() +'?from=2020-04-01T00:00:00Z&to=2020-05-15T00:00:00Z'
     return fetch(url)
     .then((response) => response.json()).catch((error) => console.error(error))
 }

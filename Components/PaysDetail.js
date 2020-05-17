@@ -23,7 +23,7 @@ class PaysDetail extends React.Component {
     _displayTodayCases(){
       d = new Date();
       datedujour = 1;
-      datedujour = d.getFullYear() + "-0" + (d.getMonth()+1) + "-" + (d.getDate()-1) + "T00:00:00Z" ;
+      datedujour = d.getFullYear() + "-0" + (d.getMonth()+1) + "-" + (d.getDate()-2) + "T00:00:00Z" ;
       console.log(datedujour);
       for(i=0; i < this.state.pays.length; i++){
         if(this.state.pays[i].Date == datedujour && this.state.pays[i].Province == ""){
@@ -34,7 +34,7 @@ class PaysDetail extends React.Component {
     _displayTodayGuerie(){
       d = new Date();
       datedujour = 1;
-      datedujour = d.getFullYear() + "-0" + (d.getMonth()+1) + "-" + (d.getDate()-1) + "T00:00:00Z" ;
+      datedujour = d.getFullYear() + "-0" + (d.getMonth()+1) + "-" + (d.getDate()-2) + "T00:00:00Z" ;
       console.log(datedujour);
       for(i=0; i < this.state.pays.length; i++){
         if(this.state.pays[i].Date == datedujour && this.state.pays[i].Province == ""){
@@ -45,7 +45,7 @@ class PaysDetail extends React.Component {
     _displayTodayDeaths(){
       d = new Date();
       datedujour = 1;
-      datedujour = d.getFullYear() + "-0" + (d.getMonth()+1) + "-" + (d.getDate()-1) + "T00:00:00Z" ;
+      datedujour = d.getFullYear() + "-0" + (d.getMonth()+1) + "-" + (d.getDate()-2) + "T00:00:00Z" ;
       console.log(datedujour);
       for(i=0; i < this.state.pays.length; i++){
         if(this.state.pays[i].Date == datedujour && this.state.pays[i].Province == ""){
