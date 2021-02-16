@@ -23,7 +23,7 @@ Installez l'application Expo sur votre téléphone.
 
 
  <p align="center">
-  Lancer l'application
+  Pour lancer l'application:
 </p>
 
 
